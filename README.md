@@ -6,12 +6,13 @@ Frontend Javascript/React developer. I write about my learnings and experience o
 
 ## Languages and Frameworks I use
 <div align="center">
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
-  <img alt="JQuery" src="https://img.shields.io/badge/jquery-%231c2c38.svg?style=for-the-badge&logo=jquery&logoColor=%231064A5"/>
-  <img alt="SASS" src="https://img.shields.io/badge/SASS-%23c26191.svg?style=for-the-badge&logo=sass&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc">
+  <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&labelColor=black&logo=nodedotjs&logoColor=white">
+  <img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img alt="JQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&labelColor=black&logo=jquery&logoColor=white"/>
+  <img alt="SASS" src="https://img.shields.io/badge/SASS-%23c26191.svg?style=for-the-badge&labelColor=black&logo=sass&logoColor=white"/>
 </div>
 
 ## Technologies
@@ -23,6 +24,9 @@ Frontend Javascript/React developer. I write about my learnings and experience o
 ## :link:	Stay in touch
 
 <div align="center">
+  <a href="https://eminmustafazade.netlify.app/" target="_blank">
+    <img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/emin-mustafazade-ba8475211/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -30,6 +34,6 @@ Frontend Javascript/React developer. I write about my learnings and experience o
   <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
   </a>
   <a href="mailto:eminmustafazade2000@gmail.com" target="_blank">
-  <img alt="Gmail" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </div>
