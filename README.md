@@ -29,6 +29,7 @@ I am Full Stack Javascript developer. I write about my learnings and experience 
   <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img alt="Netlify" src="https://img.shields.io/badge/netlify-%232e3a3a.svg?style=for-the-badge&logo=netlify&logoColor=3BA5B1"/>
+  <img alt="Railway" src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white"/>
 </div>
 
 ## :link:	Stay in touch
