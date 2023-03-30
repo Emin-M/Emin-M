@@ -35,16 +35,16 @@ I am Full Stack Javascript developer. I write about my learnings and experience 
 ## :link:	Stay in touch
 
 <div align="center">
-  <a href="https://eminmustafazade.netlify.app/" target="_blank">
+  <a href="https://eminmustafazade.vercel.app/">
     <img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/emin-mustafazade-ba8475211/" target="_blank">
+  <a href="https://www.linkedin.com/in/emin-mustafazade-ba8475211/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.facebook.com/emin.mustafazade.750" target="_blank">
+  <a href="https://www.facebook.com/emin.mustafazade.750">
   <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
   </a>
-  <a href="mailto:eminmustafazade2000@gmail.com" target="_blank">
+  <a href="mailto:eminmustafazade2000@gmail.com">
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </div>
